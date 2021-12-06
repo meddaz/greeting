@@ -1,0 +1,14 @@
+body {
+  background-color:#223127;
+  color: yellow;
+  text-align:center;
+  font-family: monospace;
+}
+
+h1 {
+  font-size: 40px;
+}
+#name, #submit {font-size:30px;}
+
+#greeting {font-size:20px;}
+ 
